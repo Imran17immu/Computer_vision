@@ -1,5 +1,5 @@
 # Git Commands
-## Git Commands
+
 -git init
 to create local repo.
 
